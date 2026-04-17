@@ -114,7 +114,7 @@ while True:
                                     break
 
                         elif seletor == "5":
-                              print("\n-----------MEU RESUMO DIÁRIA-----------")
+                              print("\n-----------MEU RESUMO DIÁRIO-----------\n")
 
                               if imc:
                                     print(f"\nIMC: {round(imc, 2)}")
