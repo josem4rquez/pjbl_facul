@@ -138,5 +138,5 @@ while executar == True:
 
     voltar = input("\nDeseja continuar o programa? (s/n): ")
     if voltar != "s":
-        executando = False
+        executar = False
         print("\nPrograma encerrado")

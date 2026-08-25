@@ -12,6 +12,13 @@ while True:
             else:
 
 
+                  # Inicializados aqui para o resumo (opcao 5) funcionar
+                  # mesmo antes de o usuario calcular cada item
+                  imc = None
+                  hidratacao_diaria = None
+                  calorias_gastas = 0
+                  meta = None
+
                   while True:
                         print('\n-----------MENU-----------'
                               '\n 1: Calcule meu IMC'
